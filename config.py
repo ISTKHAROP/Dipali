@@ -39,8 +39,8 @@ API_ID = int(os.getenv("API_ID"))
 API_HASH = os.getenv("API_HASH")
 BOT_TOKEN = os.getenv("BOT_TOKEN")
 OWNER_ID = int(os.getenv("OWNER_ID", None))
-OWNER_USERNAME = os.getenv("OWNER_USERNAME", "WTF_WhyMeeh")
-BOT_USERNAME = os.getenv("BOT_USERNAME", "ShrutixMusicBot")
+OWNER_USERNAME = os.getenv("OWNER_USERNAME", "ll_ISTKHAR_baby_lll")
+BOT_USERNAME = os.getenv("BOT_USERNAME", "dipaliMusicBot")
 
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 # 🛠️ Database & Deployment Configs
@@ -55,7 +55,7 @@ HEROKU_API_KEY = os.getenv("HEROKU_API_KEY")
 # 🔄 Git & Update Settings
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-UPSTREAM_REPO = os.getenv("UPSTREAM_REPO", "https://github.com/NoxxOP/ShrutiMusic")
+UPSTREAM_REPO = os.getenv("UPSTREAM_REPO", "https://github.com/ISTKHAROP/Dipali")
 UPSTREAM_BRANCH = os.getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = os.getenv("GIT_TOKEN", None)
 
@@ -63,11 +63,10 @@ GIT_TOKEN = os.getenv("GIT_TOKEN", None)
 # 🔗 Support Links
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-SUPPORT_CHANNEL = os.getenv("SUPPORT_CHANNEL", "https://t.me/ShrutiBots")
-SUPPORT_GROUP = os.getenv("SUPPORT_GROUP", "https://t.me/ShrutiBotSupport")
-INSTAGRAM = os.getenv("INSTAGRAM", "https://instagram.com/yaduwanshi_nand")
-YOUTUBE = os.getenv("YOUTUBE", "https://youtube.com/@NandEditz")
-GITHUB = os.getenv("GITHUB", "https://github.com/NoxxOP")
+SUPPORT_CHANNEL = os.getenv("SUPPORT_CHANNEL", "https://t.me/iamIstkhar")
+SUPPORT_GROUP = os.getenv("SUPPORT_GROUP", "https://t.me/+PaEtaAu9DI9mYzc9")
+INSTAGRAM = os.getenv("INSTAGRAM", "https://instagram.com/md_istkhar_2006")
+GITHUB = os.getenv("GITHUB", "https://github.com/TEAM-ISTKHAR")
 DONATE = os.getenv("DONATE", "https://t.me/ShrutiBots/91")
 PRIVACY_LINK = os.getenv("PRIVACY_LINK", "https://graph.org/Privacy-Policy-05-01-30")
 
